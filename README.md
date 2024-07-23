@@ -1,51 +1,106 @@
-# Welcome to your Expo app 👋
+# React Native Drawing App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This project allows users to draw images and save them to the device gallery. The project is built using Expo and React Native.
 
-## Get started
+## Features
 
-1. Install dependencies
+- Draw on the screen using touch gestures.
+- Undo and redo functionality.
+- Clear the canvas.
+- Save the drawing to the device gallery.
+- Displays toast notifications for various actions.
 
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/DrawingApp.git
+   cd DrawingApp
+   ```
+
+2. Install the dependencies:
    ```bash
    npm install
    ```
 
-2. Start the app
-
+3. Start the project:
    ```bash
-    npx expo start
+   npm start
    ```
 
-In the output, you'll find options to open the app in a
+## Usage
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+1. Use touch gestures to draw on the canvas.
+2. Use the buttons to undo, redo, clear, or save the drawing.
+3. Saved drawings will be stored in the device's gallery.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Screenshots
 
-## Get a fresh project
+Include screenshots here.
 
-When you're ready, run:
+## Video
 
-```bash
-npm run reset-project
-```
+[![Watch the video](gemoo.com/tools/upload-video/share/674324472127959040?codeId=vzap9Xxm2ZWa0&card=674324468206239744&origin=videolinkgenerator)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Dependencies
 
-## Learn more
+- Expo
+- React Native
+- react-native-svg
+- react-native-view-shot
+- expo-media-library
+- react-native-toast-message
 
-To learn more about developing your project with Expo, look at the following resources:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+# React Native Drawing App
 
-## Join the community
+Bu layihə istifadəçilərə şəkil çəkmək və onları cihazın qalereyasına saxlamaq imkanı verir. Layihə Expo və React Native istifadə edilərək hazırlanmışdır.
 
-Join our community of developers creating universal apps.
+## Xüsusiyyətlər
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-# DrawingApp
+- Ekranda toxunuş jestlərindən istifadə edərək şəkil çəkin.
+- Geri al və təkrar et funksionallığı.
+- Cizgini təmizləyin.
+- Şəkili cihazın qalereyasına qeyd edin.
+- Müxtəlif hərəkətlər üçün toast bildirişləri göstərir.
+
+## Quraşdırma
+
+1. Repositoriyanı klonlayın:
+   ```bash
+   git clone https://github.com/abdullaabdullazade/DrawingApp.git
+   cd DrawingApp
+   ```
+
+2. Asılılıqları quraşdırın:
+   ```bash
+   npm install
+   ```
+
+3. Layihəni başladın:
+   ```bash
+   npm start
+   ```
+
+## İstifadə
+
+1. Kətan üzərində toxunuş jestlərindən istifadə edərək şəkil çəkin.
+2. Geri al, təkrar et, təmizləyin və ya şəkili saxlamaq üçün düymələrdən istifadə edin.
+3. Qeyd edilən şəkillər cihazın qalereyasında saxlanılacaq.
+
+## Ekran Görüntüləri
+
+Buraya ekran görüntüləri əlavə edin.
+
+## Video
+
+[![Videoya baxın](gemoo.com/tools/upload-video/share/674324472127959040?codeId=vzap9Xxm2ZWa0&card=674324468206239744&origin=videolinkgenerator)
+
+## Asılılıqlar
+
+- Expo
+- React Native
+- react-native-svg
+- react-native-view-shot
+- expo-media-library
+- react-native-toast-message

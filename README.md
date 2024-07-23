@@ -14,7 +14,7 @@ This project allows users to draw images and save them to the device gallery. Th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DrawingApp.git
+   git clone https://github.com/abdullaabdullazade/DrawingApp.git
    cd DrawingApp
    ```
 
@@ -82,7 +82,7 @@ Bu layihə istifadəçilərə şəkil çəkmək və onları cihazın qalereyası
 
 ## 🚀 İstifadə
 
-1. Kətan üzərində toxunuş jestlərindən istifadə edərək şəkil çəkin.
+1. Cizgi üzərində toxunuş jestlərindən istifadə edərək şəkil çəkin.
 2. Geri al, təkrar et, təmizləyin və ya şəkili saxlamaq üçün düymələrdən istifadə edin.
 3. Qeyd edilən şəkillər cihazın qalereyasında saxlanılacaq.
 
